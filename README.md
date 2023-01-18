@@ -16,7 +16,7 @@ Random quiz to really tell how random you or someone else really is!
 
 ![Alt text](https://i.imgur.com/B4hEBY7.png)
 
-Deployed website on Github Pages: 
+Deployed website on Github Pages: https://00leee.github.io/Randomness-Quiz-App/
 
 # Licensed
 - This project is Licensed under the MIT License.
